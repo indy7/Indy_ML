@@ -1,3 +1,5 @@
+# Matplotpy
+
 from matplotlib.pyplot import rcParams
 from IPython.display import set_matplotlib_formats
 
